@@ -1,0 +1,15 @@
+Nivel de Hierro,Hematocrito,Etapa,Nivel de Hemoglobina,Anemia
+Entre 3mcg y 7 mcg,Alto,Niño,Baja,NO
+Entre 3mcg y 7 mcg,Alto,Niño,Alta,NO
+Menor a 3mcg,Alto,Niño,Baja,SI
+Mayor a 7mcg,Medio,Niño,Baja,SI
+Mayor a 7mcg,Bajo,Recien Nacido,Baja,SI
+Mayor a 7mcg,Bajo,Recien Nacido,Alta,NO
+Menor a 3mcg,Bajo,Recien Nacido,Alta,SI
+Entre 3mcg y 7 mcg,Medio,Niño,Baja,NO
+Entre 3mcg y 7 mcg,Bajo,Recien Nacido,Baja,SI
+Mayor a 7mcg,Medio,Recien Nacido,Baja,SI
+Entre 3mcg y 7 mcg,Medio,Recien Nacido,Alta,SI
+Menor a 3mcg,Medio,Niño,Alta,SI
+Menor a 3mcg,Alto,Recien Nacido,Baja,SI
+Mayor a 7mcg,Medio,Niño,Alta,NO
